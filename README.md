@@ -50,7 +50,6 @@ Building scalable, efficient systems using Node.js, TypeScript, PostgreSQL, Dock
 
 * ✉️ Email: `your-deepakkumar29333@example.com`
 * 🔗 LinkedIn: [linkedin.com/in/deepak-kumar-702a96144](https://www.linkedin.com/in/deepak-kumar-702a96144)
-* 💼 Portfolio: `y`*`our-portfolio-url.com`*
 
 ---
 
