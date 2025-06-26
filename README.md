@@ -11,9 +11,11 @@
 
 ## 🚀 About Me
 
-Results-driven Backend Software Engineer with **3+ years** of professional experience in architecting and developing scalable, high-performance APIs and backend systems. Proficient in Node.js, TypeScript, PostgreSQL, and RESTful API development, with a proven track record of optimizing database queries, implementing caching strategies, and improving system performance.
-
-Successfully led the adoption of TypeScript across backend services and mentored junior developers through code reviews and best practices. Skilled in system design, microservices architecture, and asynchronous processing, with hands-on experience in external API integrations. Currently seeking a challenging SDE role to build robust, efficient, and user-centric applications in a high-growth product-based environment.
+ Backend Software Engineer with 3+ years of experience building scalable APIs and backend systems.
+  • Node.js · TypeScript · PostgreSQL · Redis · Docker · AWS · Google Pub/Sub
+  • Engineered high‑performance microservices and event‑driven pipelines
+  • Optimized DB queries and caching, delivering 40% faster processing
+  • Led TypeScript adoption, mentored team, and enforced code standards
 
 ---
 
