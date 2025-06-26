@@ -81,7 +81,7 @@ Maharshi Dayanand University (MDU) – 2020
 
 ## 📈 GitHub Stats
 
-![Deepak’s GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakbitqit29333\&show_icons=true\&theme=radical)
+![Deepak’s GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak29333\&show_icons=true\&theme=radical)
 
 ---
 
