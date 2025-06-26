@@ -5,7 +5,7 @@
 📍 New Delhi, India
 📞 +91 9729176421
 📧 [deepakkumar29333@gmail.com](mailto:deepakkumar29333@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/deepak-kumar-702a96144) · [GitHub](https://github.com/deepak29333
+🔗 [LinkedIn](https://www.linkedin.com/in/deepak-kumar-702a96144)
 
 ---
 
