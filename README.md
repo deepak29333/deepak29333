@@ -78,6 +78,8 @@ Maharshi Dayanand University (MDU) – 2020
 * **Product Collection Sorter (Shopify)** – Built and optimized a custom sort engine handling up to 10 lakh products with Redis locks and Pub/Sub processing.
 * **Product Shuffle Engine** – Improved accuracy for user sorting experience using ranking logic based on business parameters.
 * **Project Approval System** – A secure backend system to manage project approvals and role-based access (details confidential).
+* **Day.js Date Playground** – A simple and powerful tool to experiment with Day.js. Format dates, convert timestamps, calculate date differences, and explore Day.js plugins like relativeTime, utc, and timezone—all in one interactive playground.  link:- https://dayjs-playground.vercel.app/
+
 
 ---
 
